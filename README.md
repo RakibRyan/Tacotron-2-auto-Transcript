@@ -1,6 +1,11 @@
 # Tacotron-2-auto-Transcript
 While using Tacotron 2 I found myself spending a long time to set up the transcript file. So, I made a simple python script to download transcript &amp; add those extra markers in every line. 
 
+How to use:
+- Open command prompt by typing cmd in windows search
+- type: cd Download_location
+- type: python Tacotron-2-auto-Transcript.py
+
 What it does:
 - It can download transcript from provided youtube video id & save it into a txt file.
 - It adds /wav[number].wavs| {some txt} to every line.
