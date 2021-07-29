@@ -5,6 +5,8 @@ How to use:
 - Open command prompt by typing cmd in windows search
 - type: cd Download_location
 - type: python Tacotron-2-auto-Transcript.py
+- use 1 to download transcript
+- use 2 to reformat file.
 
 What it does:
 - It can download transcript from provided youtube video id & save it into a txt file.
