@@ -8,6 +8,10 @@ How to use:
 - use 1 to download transcript
 - use 2 to reformat file.
 
+python packages to install:
+- youtube-transcript-api (pip install youtube-transcript-api)
+- 
+
 What it does:
 - It can download transcript from provided youtube video id & save it into a txt file.
 - It adds /wav[number].wavs| {some txt} to every line.
