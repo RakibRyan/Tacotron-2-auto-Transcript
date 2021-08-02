@@ -10,7 +10,6 @@ How to use:
 
 python packages to install:
 - youtube-transcript-api (pip install youtube-transcript-api)
-- 
 
 What it does:
 - It can download transcript from provided youtube video id & save it into a txt file.
