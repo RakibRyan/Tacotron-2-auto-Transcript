@@ -4,7 +4,7 @@ While using Tacotron 2 I found myself spending a long time to set up the transcr
 How to use:
 - Open command prompt by typing cmd in windows search
 - type: cd Download_location
-- type: <python Tacotron-2-auto-Transcript.py>
+- type: python Tacotron-2-auto-Transcript.py
 - use 1 to download transcript
 - use 2 to reformat file.
 
